@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson2\Dz_Lesson2\bin\Debug\Dz_Lesson2.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson2\Dz_Lesson2\bin\Debug\Dz_Lesson2.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson2\Dz_Lesson2\bin\Debug\Dz_Lesson2.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson2\Dz_Lesson2\obj\Debug\Dz_Lesson2.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson2\Dz_Lesson2\obj\Debug\Dz_Lesson2.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson2\Dz_Lesson2\obj\Debug\Dz_Lesson2.pdb
